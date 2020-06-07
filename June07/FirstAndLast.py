@@ -3,5 +3,5 @@ lst=[]
 for i in range(1,31):
     sq=i*i
     lst.append(sq)
-print('The first 5 elements of the squarred list are:',lst[:5])
-print('The last 5 elements of the squarred list are:',lst[-5:])
+print('The first 5 elements of the squared list are:',lst[:5])
+print('The last 5 elements of the squared list are:',lst[-5:])
